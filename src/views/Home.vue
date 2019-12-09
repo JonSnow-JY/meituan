@@ -1,6 +1,7 @@
 <template lang="html">
   <div class="">
-    12121212121
+    <div class="" v-m="2"></div>
+    <div class="" v-n="2"></div>
   </div>
 </template>
 
